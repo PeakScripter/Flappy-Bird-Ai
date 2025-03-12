@@ -1,6 +1,10 @@
 # Flappy Bird AI with NEAT
 
-![Flappy Bird AI](https://github.com/yourusername/flappy-bird-ai/raw/main/screenshots/gameplay.png)
+![Flappy Bird AI](
+
+https://github.com/user-attachments/assets/af8ef837-514c-4155-9968-8a0f4b725297
+
+)
 
 A Flappy Bird clone that uses the NEAT (NeuroEvolution of Augmenting Topologies) algorithm to train AI agents to play the game. Watch as neural networks evolve from random movements to mastering the game through generations of training.
 
