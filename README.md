@@ -101,5 +101,4 @@ Networks that perform better (survive longer and score more points) have a highe
 - [NEAT-Python](https://neat-python.readthedocs.io/) for the implementation of the NEAT algorithm
 - [Pygame](https://www.pygame.org/) for the game framework
 
-![image](https://github.com/user-attachments/assets/afa59bdd-0f64-4624-9386-44b753b74ef9)
 
